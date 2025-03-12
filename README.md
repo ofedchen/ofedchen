@@ -5,9 +5,9 @@ I'm a **Fullstack Developer in the making** with background in marketing and e-c
 ---
 
 ### 🔍 **What Drives Me?**  
-🔹 **User-Centered Development** – Great software isn’t just about code—it’s about solving the right problems. With experience in **design thinking, service design, and UX research**, I approach development with a **holistic, user-first mindset**, ensuring that solutions are both **valuable and intuitive**.  
+🔹 **User-Centered Development** – Great software isn’t just about code—it’s about solving the right problems. With experience in **design thinking, service design, and UX research**, I approach development with a user-first mindset, ensuring that solutions are both valuable and intuitive.  
 
-🔹 **Analytical Thinking & Problem-Solving** – I love **breaking down complex challenges**, identifying user pain points, and researching best practices to design thoughtful, data-driven solutions.  
+🔹 **Analytical Thinking & Problem-Solving** – I love breaking down complex challenges, identifying user pain points, and researching best practices to design thoughtful, data-driven solutions.  
 
 🔹 **Continuous Learning & Growth** – Currently expanding my skill set **from frontend to fullstack**, strengthening my understanding of **backend development, databases, and system architecture** to build more complete and scalable solutions.  
 
