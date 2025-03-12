@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Olha!  
+## 👋 Hi, I'm Olha!  
 
 I'm a **Fullstack Developer in the making** with background in marketing and e-commerce, passionate about building scalable and user-friendly web applications. Currently, I'm studying **Fullstack Development with a focus on JavaScript** at IT-Högskolan in Gothenburg, Sweden. My passion lies in creating **intuitive, accessible, and research-driven** digital solutions that truly meet user needs.
 
