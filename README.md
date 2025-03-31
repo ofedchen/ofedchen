@@ -51,7 +51,7 @@ I'm a **Fullstack Developer in the making** with background in marketing and e-c
 
 
 ### 📫 Let's Connect!  
-- 💼 [LinkedIn]([https://www.linkedin.com/in/ofedchenko/])
+- 💼 [LinkedIn](https://www.linkedin.com/in/ofedchenko/)
 - 📩 Open to collaborations and learning opportunities!  
 
 ### 👯 I’m looking for LIA internship for HT 2025 and VT 2026!
