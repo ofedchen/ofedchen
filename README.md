@@ -38,7 +38,7 @@ I'm a **Fullstack Developer in the making** with background in marketing and e-c
 
 📚 **Currently Studying:**  
 - Backend Development (**Node.js, Express**)  
-- Databases (**MongoDB, PostgreSQL**)  
+- Databases (**MongoDB, MySQL**)  
 - Server-side logic & API development  
 
 ---
