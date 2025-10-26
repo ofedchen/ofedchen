@@ -49,11 +49,4 @@ Studying to become a Fullstack Developer and build scalable and user-friendly we
 - Databases (**PostgreSQL**)  
 - Typescript and testing
 
----
-
-
-### 📫 Let's Connect!  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ofedchenko/)
-- 📩 Open to collaborations and learning opportunities!  
-
 
