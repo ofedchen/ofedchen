@@ -1,6 +1,6 @@
 ## Hi, I'm Olha 🇺🇦🇸🇪
 
-I'm working hard to become a Fullstack Developer and start building scalable and user-friendly web applications. Currently, I'm studying **Fullstack Development with a focus on JavaScript** at IT-Högskolan in Gothenburg, Sweden. 
+I'm working hard to become a Fullstack Developer and build scalable and user-friendly web applications. Currently, I'm studying **Fullstack Development with a focus on JavaScript** at IT-Högskolan in Gothenburg, Sweden. 
 🧑‍💻 **Doing my internship at [Paliscope](https://www.paliscope.com/)**  
 
 ---
