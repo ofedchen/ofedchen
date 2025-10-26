@@ -1,12 +1,13 @@
 ## Hi, I'm Olha 🇺🇦🇸🇪
 
 I'm working hard to become a Fullstack Developer and build scalable and user-friendly web applications. Currently, I'm studying **Fullstack Development with a focus on JavaScript** at IT-Högskolan in Gothenburg, Sweden. 
+
 🧑‍💻 **Doing my internship at [Paliscope](https://www.paliscope.com/)**  
 
 ---
 
 ### 🔍 **What Drives Me?**  
-🔹 **User-Centered Development** – Great software solves the right problems. With experience in **design thinking, service design, and UX research**, I approach development with a user-first mindset, ensuring that solutions are both functional and intuitive.  
+🔹 **User-First Approach** – Turning UX insights into functional, user-friendly applications.
 
 🔹 **Analytical Thinking & Problem-Solving** – I love solving problems, breaking down complex challenges and fixing bugs! 
 
