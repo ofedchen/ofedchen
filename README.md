@@ -1,6 +1,7 @@
 ## Hi, I'm Olha 🇺🇦🇸🇪
 
-I'm working hard to become a Fullstack Developer and build scalable and user-friendly web applications. Currently, I'm studying **Fullstack Development with a focus on JavaScript** at IT-Högskolan in Gothenburg, Sweden. 
+Studying to become a Fullstack Developer and build scalable and user-friendly web applications. Currently, I'm studying Fullstack Development with a focus on JavaScript at IT-Högskolan in Gothenburg, Sweden. 
+
 
 🧑‍💻 **Doing my internship at [Paliscope](https://www.paliscope.com/)**  
 
@@ -26,7 +27,7 @@ I'm working hard to become a Fullstack Developer and build scalable and user-fri
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+      <img src="https://img.shields.io/badge/-React-121212?logo=react&logoColor=cyan&style=for-the-badge" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
@@ -47,12 +48,6 @@ I'm working hard to become a Fullstack Developer and build scalable and user-fri
 - PaaS, IaaS and containers
 - Databases (**PostgreSQL**)  
 - Typescript and testing
-
----
-
-### 📊 **GitHub Stats**  
-![Olha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ofedchen&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ofedchen&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
 ---
 
