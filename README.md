@@ -47,6 +47,6 @@ Studying to become a Fullstack Developer and build scalable and user-friendly we
 📚 **Currently Studying:**  
 - PaaS, IaaS and containers
 - Databases (**PostgreSQL**)  
-- Typescript and testing
+- Testing (mocha, Cypress, Cucumber)
 
 
