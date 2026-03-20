@@ -1,4 +1,4 @@
-## Hi, I'm Olha 🇺🇦🇸🇪
+## Hi, I'm Olha 
 
 Studying to become a Fullstack Developer and build scalable and user-friendly web applications. Student at IT-Högskolan in Gothenburg, Sweden. 
 
