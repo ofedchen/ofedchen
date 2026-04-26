@@ -46,7 +46,7 @@ Studying to become a Fullstack Developer and build scalable and user-friendly we
 
 📚 **Currently Studying:**  
 - Java, Spring Boot
-- PaaS, IaaS and containers 
+- Spec-driven development
 - Headless CMS
 
 
