@@ -1,9 +1,9 @@
 ## Hi, I'm Olha 
 
-Studying to become a Fullstack Developer and build scalable and user-friendly web applications. Student at IT-Högskolan in Gothenburg, Sweden. 
+and I'm a Full Stack Developer from Gothenburg, Sweden. I build scalable and user-friendly cross-platform applications.
 
 
-🧑‍💻 **Doing my internship at [Paliscope](https://www.paliscope.com/)**  
+🧑‍💻 **Finished my 7,5 months internship at [Paliscope](https://www.paliscope.com/)**  
 
 ---
 
