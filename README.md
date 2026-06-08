@@ -46,7 +46,7 @@ and I'm a Full Stack Developer from Gothenburg, Sweden. I build scalable and use
 </table>
 
 📚 **Currently Studying:**  
-- Java, Spring Boot
+- Currently strengthening my Java and Python skills through structured learning
 - Spec-driven development
 - Headless CMS
 
