@@ -36,6 +36,7 @@ and I'm a Full Stack Developer from Gothenburg, Sweden. I build scalable and use
 <td>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-3FA037?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -47,6 +48,7 @@ and I'm a Full Stack Developer from Gothenburg, Sweden. I build scalable and use
 
 📚 **Currently Studying:**  
 - Currently strengthening my Java and Python skills through structured learning
+- Multiagent workflows
 - Spec-driven development
 - Headless CMS
 
