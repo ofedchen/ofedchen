@@ -48,7 +48,7 @@ and I'm a Full Stack Developer from Gothenburg, Sweden. I build scalable and use
 
 📚 **Currently Studying:**  
 - Currently strengthening my Java and Python skills through structured learning
-- Multiagent workflows
+- Multi AI Agent Systems and Workflows
 - Spec-driven development
 - Headless CMS
 
