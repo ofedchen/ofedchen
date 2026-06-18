@@ -1,9 +1,9 @@
 ## Hi, I'm Olha 
 
-and I'm a Full Stack Developer from Gothenburg, Sweden. I build scalable and user-friendly cross-platform applications.
+and I'm a Full Stack Developer from Gothenburg, Sweden. I build scalable and user-friendly cross-platform applications. I'm also actively building autonomous, multi-agent frameworks (using Python, CrewAI, and LangGraph)
 
 
-🧑‍💻 **Finished my 7,5 months internship at [Paliscope](https://www.paliscope.com/)**  
+🧑‍💻 **Formerly Software Developer at [Paliscope](https://www.paliscope.com/)**  
 
 ---
 
